@@ -1,5 +1,5 @@
-# Layout preview not working when custom view is inclued in xml of submodule
-Reproduction project for Android studio bug
+# Layout preview not working when custom view is included in xml of submodule
+Reproduction project for Android studio bug https://issuetracker.google.com/issues/119844516
 
 ## Scenario
 a custom view of two textviews (title & subtitle), created by inflating a layout resource in init method of a custom subclass of LinearLayout. 
