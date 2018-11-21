@@ -1,4 +1,4 @@
-# LayoutPreviewNotWorkingInModules
+# Layout preview not working when custom view is inclued in xml of submodule
 Reproduction project for Android studio bug
 
 ## Scenario
